@@ -31,6 +31,11 @@ $ eb use single-instance-env
 $ eb deploy
 ```
 
+## Clean-Up
+```
+$ eb terminate --all
+```
+
 ## References
 [1] https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features-managing-env-types.html
 [2] https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3.html
