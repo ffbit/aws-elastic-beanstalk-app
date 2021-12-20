@@ -19,6 +19,18 @@ $ ./create-single-instance-env.sh
 $ ./create-elb-env.sh
 ```
 
+## Deploy New Changes
+Commit changes, choose an environment to deploy to, and deploy:
+```
+$ eb list
+* elb-env
+single-instance-env
+
+$ eb use single-instance-env 
+
+$ eb deploy
+```
+
 ## References
 [1] https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features-managing-env-types.html
 [2] https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3.html
