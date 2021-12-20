@@ -4,6 +4,16 @@ A sample Node.js web application deployed on a single-instance or a load-balance
 ## Requirements
 The scripts in this project use the Elastic Beanstalk command line interface (EB CLI) [2],[3].
 
+## Init Application
+```
+$ ./init-app.sh
+```
+
+## Create a Single-Instance Environment
+```
+$ ./create-single-instance-env.sh 
+```
+
 ## References
 [1] https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features-managing-env-types.html
 [2] https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3.html
