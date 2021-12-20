@@ -37,7 +37,7 @@ $ eb terminate --all
 ```
 
 ## References
-[1] https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features-managing-env-types.html
-[2] https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3.html
-[3] https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-getting-started.html
+- [1] https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features-managing-env-types.html
+- [2] https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3.html
+- [3] https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-getting-started.html
 
