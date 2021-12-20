@@ -14,6 +14,11 @@ $ ./init-app.sh
 $ ./create-single-instance-env.sh 
 ```
 
+## Create a Load-Balanced, Scalable Environment
+```
+$ ./create-elb-env.sh
+```
+
 ## References
 [1] https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features-managing-env-types.html
 [2] https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3.html
