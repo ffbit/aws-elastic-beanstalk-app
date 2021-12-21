@@ -4,7 +4,7 @@
   "description": "A sample Node.js web application deployed on a single-instance or a load-balanced, scalable AWS Beanstalk environment.",
   "author": "Dmytro Chyzhykov <dmytro.chyzhykov@gmail.com> (https://ffbit.com/)",
   "license": "MIT",
-  "private": false,
+  "private": true,
   "engines": {
     "npm": ">=6.14.15",
     "node": ">=14.18.1"
